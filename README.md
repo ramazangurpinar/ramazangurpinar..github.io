@@ -1,2 +1,2 @@
-# ramazangurpinar..github.io
+# ramazangurpinar.github.io
 My Personel Site
